@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClipVault</string>
+    <string name="accessibility_service_description">ClipVault uses Accessibility Service only to detect when you copy text. It does not read your screen content.</string>
+    <string name="notification_channel_name">ClipVault Active</string>
+    <string name="notification_text">Clipboard history is being saved</string>
+</resources>
